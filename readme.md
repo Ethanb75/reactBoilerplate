@@ -1,3 +1,2 @@
-# Pomodoro-Timer
-a simple app to help productivity. Built with react, styled with scss
-see http://pacific-waters-64177.herokuapp.com/#/?_k=dmclkt for productin version
+# React Boilerplate
+A simple react boilerplate with foundation, sass, karma, express, react-router, babel, mocha, expect, and jquery. see the package.json file for more
